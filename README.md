@@ -1,4 +1,4 @@
-# WebProgramming
+# Web Programming
 
 # Web Programming Course
 This repository contains my work for the Web Programming course.
