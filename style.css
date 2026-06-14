@@ -108,4 +108,22 @@ hr{
 
     border-top:2px solid #f4c2c2;
 
+} 
+}
+.assignment-box{
+
+    background-color:#fffaf0;
+
+    padding:20px;
+
+    border:3px solid #ffd1dc;
+
+    border-radius:23px;
+
+    text-align:center;
+
+    box-shadow:0px 3px 15px rgba(0,0,0,0.1);
+
+    margin-top:30px;
+
 }
