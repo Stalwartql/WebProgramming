@@ -6,7 +6,6 @@ body{
     color:#333;
 }
 
-
 /* Navigation */
 
 .navbar{
@@ -22,15 +21,12 @@ body{
     background-color:#fbf3e5;
 }
 
-
 .navbar a{
 
     text-decoration:none;
 
     color:black;
-
 }
-
 
 /* Hero section */
 
@@ -125,9 +121,7 @@ body{
     border: none;
 
     padding: 10px 20px;
-
 }
-
 
 /* Right box */
 
@@ -138,5 +132,4 @@ body{
     padding:30px;
 
     width:500px;
-
 }
